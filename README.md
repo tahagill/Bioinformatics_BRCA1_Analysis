@@ -37,7 +37,7 @@ The goal is to study **evolutionary conservation** and identify functionally imp
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/BRCA1_Evolutionary_Insights.git
+git clone https://github.com/tahagill/Bioinformatics_BRCA1_Analysis.git
 cd BRCA1_Evolutionary_Insights
 ```
 
