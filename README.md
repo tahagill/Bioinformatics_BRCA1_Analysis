@@ -90,8 +90,8 @@ BRCA1_Evolutionary_Insights/
 
 ## 🔧 Configuration (`config.py`)
 The `config.py` file contains the following configurations:
-- **NCBI Email** → Required for API access.
-- **DATA_DIR** → Automatically creates a data folder for output files.
+- **NCBI Email** → Required for API access
+- **DATA_DIR** → Automatically creates a data folder for output files
 
 ### Editing `config.py`
 Modify the following lines if you want to use your own NCBI email or API key:
